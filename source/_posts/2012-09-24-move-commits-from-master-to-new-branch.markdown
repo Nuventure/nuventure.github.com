@@ -27,4 +27,4 @@ where 3 is the number of commits you have already made, that are to be moved ove
 
 Now, you have a clean working copy of master branch, while retaining the new commits in the new branch.
 
-Thanks to [Ariejan](http://ariejan.net/) for the tip!
+Thanks to [Ariejan](http://ariejan.net/2012/08/14/move-your-latest-commits-to-a-separate-branch) for the tip!

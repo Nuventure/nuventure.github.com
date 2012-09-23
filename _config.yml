@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://nuventure.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://nuventuretech.com
+title: Nuventure Tech Blog
+subtitle: Devops with Ruby and Rails
+author: Nuventure Technology Solutions
 simple_search: http://google.com/search
 description:
 
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: info@nuventure.in
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -64,7 +64,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: nuventuretech
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true

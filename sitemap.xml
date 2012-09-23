@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>
+            http://nuventuretech.com/blog/2012/09/24/move-commits-from-master-to-new-branch/
+        </loc>
+        <lastmod>2012-09-24T03:11:16+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://nuventuretech.com/blog/2012/09/24/rails-4-in-a-mindnode/</loc>
+        <lastmod>2012-09-24T03:11:35+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://nuventuretech.com/blog/archives/</loc>
+        <lastmod>2012-09-24T03:11:35+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://nuventuretech.com/</loc>
+        <lastmod>2012-09-24T03:11:35+05:30</lastmod>
+    </url>
+</urlset>

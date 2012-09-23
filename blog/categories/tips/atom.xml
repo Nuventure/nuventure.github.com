@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Tips | Nuventure Tech]]></title>
+  <link href="http://nuventuretech.com/blog/categories/tips/atom.xml" rel="self"/>
+  <link href="http://nuventuretech.com/"/>
+  <updated>2012-09-24T03:11:44+05:30</updated>
+  <id>http://nuventuretech.com/</id>
+  <author>
+    <name><![CDATA[Nuventure Technology Solutions]]></name>
+    <email><![CDATA[info@nuventure.in]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Move commits from master to new branch]]></title>
+    <link href="http://nuventuretech.com/blog/2012/09/24/move-commits-from-master-to-new-branch/"/>
+    <updated>2012-09-24T01:37:00+05:30</updated>
+    <id>http://nuventuretech.com/blog/2012/09/24/move-commits-from-master-to-new-branch</id>
+    <content type="html"><![CDATA[<p>Ever found yourself committing to the master branch instead of having a separate branch for that new feature you are working on ? This handy tip will let you <em>move</em> those commits to a separate new branch keeping your master branch untouched. <strong>Note that this would only work if you haven't pushed your changes to remote yet</strong>.</p>
+
+<p><strong>Create a new branch from master</strong></p>
+
+<p><code>
+$ git branch new-changes
+</code></p>
+
+<p>This would copy over the new commits from master to the newly created branch.</p>
+
+<p><strong>Remove commits from master</strong></p>
+
+<p><code>
+$ git reset --hard HEAD~3
+</code></p>
+
+<p>where 3 is the number of commits you have already made, that are to be moved over and unpushed to remote.</p>
+
+<p>Now, you have a clean working copy of master branch, while retaining the new commits in the new branch.</p>
+
+<p>Thanks to <a href="http://ariejan.net/2012/08/14/move-your-latest-commits-to-a-separate-branch">Ariejan</a> for the tip!</p>
+]]></content>
+  </entry>
+  
+</feed>

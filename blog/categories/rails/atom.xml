@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Rails | Nuventure Tech]]></title>
+  <link href="http://nuventuretech.com/blog/categories/rails/atom.xml" rel="self"/>
+  <link href="http://nuventuretech.com/"/>
+  <updated>2012-09-24T03:11:44+05:30</updated>
+  <id>http://nuventuretech.com/</id>
+  <author>
+    <name><![CDATA[Nuventure Technology Solutions]]></name>
+    <email><![CDATA[info@nuventure.in]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Rails 4 in a MindNode]]></title>
+    <link href="http://nuventuretech.com/blog/2012/09/24/rails-4-in-a-mindnode/"/>
+    <updated>2012-09-24T02:39:00+05:30</updated>
+    <id>http://nuventuretech.com/blog/2012/09/24/rails-4-in-a-mindnode</id>
+    <content type="html"><![CDATA[<p>A visualisation of what is being added, removed or deprecated in Rails 4.</p>
+]]></content>
+  </entry>
+  
+</feed>

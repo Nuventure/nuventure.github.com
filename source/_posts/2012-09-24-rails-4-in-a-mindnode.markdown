@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rails 4 in a MindNode"
+author: Tinu Cleatus
 date: 2012-09-24 02:39
 comments: true
 categories: Rails

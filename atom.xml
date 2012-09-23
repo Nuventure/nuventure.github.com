@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Nuventure Tech Blog]]></title>
+  <link href="http://nuventuretech.com/atom.xml" rel="self"/>
+  <link href="http://nuventuretech.com/"/>
+  <updated>2012-09-23T23:08:45+05:30</updated>
+  <id>http://nuventuretech.com/</id>
+  <author>
+    <name><![CDATA[Nuventure Technology Solutions]]></name>
+    <email><![CDATA[info@nuventure.in]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
